@@ -1,4 +1,4 @@
-# Data Science Projects Repository
+# CodSoft
 
 This repository contains several data science projects aimed at solving different real-world problems using machine learning techniques, including predictive modeling, classification, and regression tasks. Below is a brief overview of each project, the datasets used, and the methodologies applied.
 
